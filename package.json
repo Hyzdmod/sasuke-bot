@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0",
+    "pino": "^7.0.5",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
